@@ -4,7 +4,10 @@
     <title>JangMoonJang</title>
     <link>https://jangmoonjang.github.io/</link>
     <description>Recent content on JangMoonJang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jangmoonjang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://jangmoonjang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jangmoonjang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://jangmoonjang.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
